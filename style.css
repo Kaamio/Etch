@@ -1,0 +1,17 @@
+.container {
+	height:540px;
+	width: 540px;
+	border: 1px solid red;
+}
+
+
+.ruutu {
+	margin:0px;
+	padding:0px;
+	float:left;
+}
+
+
+.vari {
+	background-color: black;
+}
