@@ -1,7 +1,10 @@
 .container {
 	height:540px;
 	width: 540px;
-	border: 1px solid red;
+	border: 10px solid #BF3FBF;
+	border-radius: 7px;
+	margin:auto;
+
 }
 
 
@@ -12,6 +15,23 @@
 }
 
 
-.vari {
-	background-color: black;
+.napit {
+	margin:auto;
+	background-color: #3F5DBF;
+	display: inline-block;
+	height:60px;
+	width:85px;
+	font-family: tahoma;
+	font-size: 18px;
+	cursor:pointer;
+	color:white;
+
+}
+
+#btn {
+	margin-left: 650px;
+}
+
+#butt {
+	height:90px;
 }
